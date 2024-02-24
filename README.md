@@ -89,7 +89,7 @@ Email: manishxfalcon@gmail.com
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 140207553773.dkr.ecr.ap-south-1.amazonaws.com/text-s
+    
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
