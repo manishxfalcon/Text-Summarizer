@@ -89,8 +89,6 @@ Email: manishxfalcon@gmail.com
 
 	
 ## 3. Create ECR repo to store/save docker image
-    
-
 	
 ## 4. Create EC2 machine (Ubuntu) 
 
