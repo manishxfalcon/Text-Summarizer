@@ -117,7 +117,7 @@ Email: manishxfalcon@gmail.com
 
 # 7. Setup github secrets:
 
-    AWS_ACCESS_KEY_ID=
+    AWS_ACCESS_KEY_ID= id
 
     AWS_SECRET_ACCESS_KEY=
 
