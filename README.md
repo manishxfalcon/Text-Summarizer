@@ -1,6 +1,6 @@
 # End to end Text-Summarizer-Project
 
-## Workflows
+# Workflows
 
 1. Update config.yaml
 2. Update params.yaml
@@ -13,7 +13,7 @@
 
 
 # How to run?
-### STEPS:
+## STEPS:
 
 Clone the repository
 
